@@ -1,7 +1,9 @@
 --sanity-check
+
 ![Screenshot (285)](https://github.com/Yasmeen-Begum/Create-Your-Own-Image-Classifier/assets/91931504/f8ba3e3f-4d7b-4709-b748-1a4ee4952e5b)
 
 --predicting the image
+
 ![Screenshot (284)](https://github.com/Yasmeen-Begum/Create-Your-Own-Image-Classifier/assets/91931504/4f0a46ac-39b2-4c6d-9efc-5f6e4784d84a)
 
 
