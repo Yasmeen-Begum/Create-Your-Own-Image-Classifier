@@ -5,11 +5,12 @@
 
 --sanity-check
 
-![Screenshot (285)](https://github.com/Yasmeen-Begum/Create-Your-Own-Image-Classifier/assets/91931504/f8ba3e3f-4d7b-4709-b748-1a4ee4952e5b)
+![Screenshot (286)](https://github.com/Yasmeen-Begum/Create-Your-Own-Image-Classifier/assets/91931504/b06e7f6e-4f65-448a-be1b-fad8922288d3)
 
 --predicting the image
 
-![Screenshot (284)](https://github.com/Yasmeen-Begum/Create-Your-Own-Image-Classifier/assets/91931504/4f0a46ac-39b2-4c6d-9efc-5f6e4784d84a)
+![Screenshot (287)](https://github.com/Yasmeen-Begum/Create-Your-Own-Image-Classifier/assets/91931504/e1f4badf-b6d8-4ee1-94fc-585cd3a08c0e)
+
 
 
 # Image Classifier - Part 2 - Command Line App
