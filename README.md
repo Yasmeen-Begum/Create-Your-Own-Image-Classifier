@@ -1,8 +1,7 @@
-# AI Programming with Python Project
+# Create-Your-Own-Image-Classifer
+# Image Classifier - Part 1 - Development
 
-Image Classifier - Part 1 - Development
-
-Developing an Image Classifier with Deep Learning
+-Developing an Image Classifier with Deep Learning
 
 --sanity-check
 
@@ -13,7 +12,9 @@ Developing an Image Classifier with Deep Learning
 ![Screenshot (284)](https://github.com/Yasmeen-Begum/Create-Your-Own-Image-Classifier/assets/91931504/4f0a46ac-39b2-4c6d-9efc-5f6e4784d84a)
 
 
+# Image Classifier - Part 2 - Command Line App
 
+- Building the command line application
 
 --for train.py
 
